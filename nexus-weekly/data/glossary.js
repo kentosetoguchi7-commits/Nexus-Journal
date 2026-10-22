@@ -1,0 +1,35 @@
+// Nexus Weekly glossary.
+// Any story text can link a term with [[term]] or [[term|display text]].
+// Keys are lowercase. Keep definitions to one or two plain-English sentences.
+window.NEXUS_WEEKLY_GLOSSARY = {
+  "basis point": "One hundredth of a percentage point. A 25 basis point hike moves a rate from 3.75% to 4.00%.",
+  "fomc": "The Federal Open Market Committee: the group inside the Federal Reserve that votes on interest rates. It meets eight times a year.",
+  "fed funds rate": "The interest rate banks charge each other for overnight loans. It's the Fed's main lever and it ripples out to mortgages, car loans, credit cards and savings accounts.",
+  "rate hike": "When the Fed raises interest rates. Borrowing gets more expensive, which cools spending and, over time, inflation.",
+  "rate cut": "When the Fed lowers interest rates to make borrowing cheaper and support growth.",
+  "hawkish": "Leaning toward higher interest rates to fight inflation.",
+  "dovish": "Leaning toward lower interest rates to support jobs and growth.",
+  "accommodation": "Fed-speak for keeping rates low enough to stimulate the economy. 'Removing accommodation' means taking the foot off the gas.",
+  "dot plot": "A chart the Fed publishes four times a year. Each dot is one official's guess for where rates should be at the end of each year.",
+  "blackout period": "The quiet window around each Fed meeting when officials don't give speeches about policy, so they don't move markets right before a decision.",
+  "beige book": "A Fed report published eight times a year that collects anecdotes from businesses in each of the 12 Fed districts. It's a 'what are people on the ground saying' check.",
+  "cpi": "Consumer Price Index: the government's main measure of how much prices rose for everyday things people buy, like groceries, rent, gas and cars.",
+  "core inflation": "Inflation with food and energy stripped out. Those two swing a lot, so core gives a cleaner read on the underlying trend.",
+  "ppi": "Producer Price Index: how much businesses are paying (and charging each other) for goods and services. It often hints at where consumer prices are heading.",
+  "retail sales": "How much Americans spent at stores, restaurants and online in a month. Consumer spending drives roughly two-thirds of the US economy.",
+  "jobless claims": "The number of people who filed for unemployment benefits for the first time in a week. Low numbers mean few layoffs.",
+  "flash pmi": "An early survey of purchasing managers that shows whether factories and service businesses are growing (above 50) or shrinking (below 50).",
+  "y/y": "Year over year: compared with the same month last year.",
+  "m/m": "Month over month: compared with the previous month.",
+  "treasury yield": "The interest the US government pays to borrow. The 10-year yield is the benchmark for mortgage rates. Yields fall when investors rush to buy bonds.",
+  "safe haven": "An investment people buy when they're scared, such as US Treasury bonds or gold.",
+  "risk-off": "A mood where investors sell riskier assets (like tech stocks) and move into safer ones (like government bonds).",
+  "wti": "West Texas Intermediate: the main US benchmark price for crude oil.",
+  "brent": "The main international benchmark price for crude oil, based on North Sea oil.",
+  "strait of hormuz": "A narrow sea passage between Iran and Oman. Before the current conflict, roughly a fifth of the world's oil passed through it.",
+  "semiconductor index": "The Philadelphia Semiconductor Index (SOX), which tracks the biggest chip companies, like Nvidia, AMD, Broadcom and Micron.",
+  "sanctions": "Penalties, usually trade or financial restrictions, that one country places on another to pressure it.",
+  "blockade": "Using military force to stop ships from entering or leaving a country's ports.",
+  "earnings": "A company's quarterly report card on sales and profits. Big companies' results can move the whole market.",
+  "midterms": "US elections held halfway through a president's term. All House seats and about a third of Senate seats are on the ballot."
+};
